@@ -1,0 +1,33 @@
+_repo: Jack-and-Jill-and-Old-Dame-Gill_45289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Accidents -- Juvenile poetry'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+title: Jack and Jill and Old Dame Gill
+url: http://www.gutenberg.org/ebooks/45289
